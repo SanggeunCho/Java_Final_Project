@@ -1,0 +1,24 @@
+[1]
+Title	: Book1
+Author	: Author1
+Genre	: Cartoon
+Name	: Not Yet Borrowed
+
+[2]
+Title	: Haikyuu
+Author	: Haruichi Furudate
+Genre	: Cartoon
+Name	: Not Yet Borrowed
+
+[3]
+Title	: The Java Tutorials
+Author	: Oracle
+Genre	: Text Book
+Name	: Not Yet Borrowed
+
+[4]
+Title	: The Little Prince
+Author	: SAINT-EXUPERY
+Genre	: Novel
+Name	: Not Yet Borrowed
+
