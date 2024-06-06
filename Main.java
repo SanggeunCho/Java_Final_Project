@@ -77,7 +77,7 @@ public class Main {
                     System.out.println("Return Success");
                     break;
                 case 3: // Add
-                    System.out.println("Enter the Book name");
+                    System.out.println("Enter the Book Title");
                     String book = s.nextLine();
                     System.out.println("Enter the Author name");
                     String author = s.nextLine();
