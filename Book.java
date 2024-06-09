@@ -61,7 +61,6 @@ public class Book implements Comparable {
             System.out.println("Title\t: " + BookName);
             System.out.println("Author\t: " + BookAuthor);
             System.out.println("Name\t: " + PersonName);
-            System.out.println("ID\t\t: " + PersonID);
             System.out.println("Date\t: " + Date);
         }
         else {
@@ -73,7 +72,7 @@ public class Book implements Comparable {
     }
 
     public String StringOutput(){
-        if(Loaned) return "Title\t: " + BookName + "\nAuthor\t: " + BookAuthor + "\nName\t: " + PersonName + "\nID\t\t: " + PersonID + "\nDate\t: " + Date + "\n";
+        if(Loaned) return "Title\t: " + BookName + "\nAuthor\t: " + BookAuthor + "\nName\t: " + PersonName + "\nDate\t: " + Date + "\n";
         else return "Title\t: " + BookName + "\nAuthor\t: " + BookAuthor + "\nName\t: " + PersonName + "\n";
     }
 
